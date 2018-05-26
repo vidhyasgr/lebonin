@@ -1,0 +1,76 @@
+
+
+
+canvas{
+  width: 48% !important;
+  /*height: 50% !important;*/
+
+}
+
+.grid-row {
+  width:100%;
+  height:50%;
+}
+.grid-row div {
+  width:50%;
+  height:100%;
+  float:left;
+}
+
+/*layout{*/
+  /*width: 48% !important;*/
+  /*height: 50% !important;*/
+
+/*}*/
+
+body, html {
+  height: 100%;
+}
+
+
+.box{
+  border: 0px solid #2f332f;
+  padding: 25px;
+  margin: 7px;
+  background-color: #1a2533;
+  height: 426px !important;
+  overflow-y: scroll;
+}
+
+.labelBox{
+  border: 0px solid #2f332f;
+  padding: 25px;
+  margin: 7px;
+  background-color: #1a2533;
+}
+
+label{
+  font-size: x-large;
+  color: white;
+}
+
+th {
+  color: white;
+}
+select{
+  /*background-image:*/
+    /*linear-gradient(45deg, transparent 50%, gray 50%),*/
+    /*linear-gradient(135deg, gray 50%, transparent 50%),*/
+    /*linear-gradient(to right, #ccc, #ccc);*/
+  /*background-position:*/
+    /*calc(100% - 20px) calc(1em + 2px),*/
+    /*calc(100% - 15px) calc(1em + 2px),*/
+    /*calc(100% - 2.5em) 0.5em;*/
+  /*background-size:*/
+    /*5px 5px,*/
+    /*5px 5px,*/
+    /*1px 1.5em;*/
+  /*background-repeat: no-repeat;*/
+}
+
+
+.center-div{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}

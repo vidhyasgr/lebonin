@@ -1,0 +1,43 @@
+[
+  {
+    "storeId": "Store-1",
+    "data": {
+      "time": "10:01",
+      "personVisibleCount": 56,
+      "newPerson":50,
+      "repeatPerson":6
+    }
+  },
+  {
+    "storeId": "Store-2",
+    "data": {
+      "time": "10:01",
+      "personVisibleCount": 56,
+      "newPerson":50,
+      "repeatPerson":6
+
+    }
+  },
+  {
+    "storeId": "Store-3",
+    "data": {
+      "time": "10:01",
+      "personVisibleCount": 96,
+      "newPerson":40,
+      "repeatPerson":56
+
+    }
+  },
+  {
+    "storeId": "Store-4",
+    "data":
+      {
+        "time": "10:01",
+        "personVisibleCount": 76,
+        "newPerson":20,
+        "repeatPerson":56
+
+      }
+
+  }
+]

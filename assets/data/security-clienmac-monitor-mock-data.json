@@ -1,0 +1,19 @@
+[
+  {
+    "apMac": "34:34:23:4d:23:d2",
+    "data": [
+      {
+        "clientMac": "48:43:53:53:7c:d1",
+        "timeDetected": "10:21"
+      },
+      {
+        "clientMac": "48:43:53:53:8c:d1",
+        "timeDetected": "11:21"
+      },
+      {
+        "clientMac": "48:43:53:53:9c:d1",
+        "timeDetected": "17:21"
+      }
+    ]
+  }
+]
