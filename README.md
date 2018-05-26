@@ -1,4 +1,4 @@
-# lebonin
+# leboncoin
 Vivatech Hackathon in paris 2018
 ## How to install:
 Write in a terminal:
